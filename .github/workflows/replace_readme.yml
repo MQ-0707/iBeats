@@ -1,4 +1,4 @@
-name: Replace README AND GENERATE SVG
+name: My Ibeats SVG
 
 on:
   workflow_dispatch:
@@ -12,8 +12,8 @@ on:
 
 env:
   # change env here
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: MQ-0707
+  GITHUB_EMAIL: lwcse35@gmail.com
 
 jobs:
   sync:
