@@ -50,7 +50,7 @@ jobs:
       - name: Push new README
         uses: github-actions-x/commit@v2.6
         with:
-          github-token: ${{ secrets.G_T }}
+          github-token: ${{ secrets.ibeats }}
           commit-message: "Replace README"
           files: README.md files
           rebase: 'true'
